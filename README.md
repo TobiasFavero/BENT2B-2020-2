@@ -1,6 +1,8 @@
 # BENT2B-2020-2
+
 Repositorio inicial de la clase NT2-B Periodo 2020-2
 
+<<<<<<< HEAD
 # Consigna
 
 Para iniciar con este proyecto, es necesario que todos tengamos el proyecto en nuestras cuentas de github. Es por eso que dejo las siguientes consignas:
@@ -13,3 +15,5 @@ Para iniciar con este proyecto, es necesario que todos tengamos el proyecto en n
 - Daniel Guzman, dguzman-ort
 - Tomas Kouba, gituser-tkouba
 - Ricardo Capelli, rcapelli
+=======
+>>>>>>> b001286... Update Readme.md
