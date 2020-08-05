@@ -1,6 +1,7 @@
 # BENT2B-2020-2
 
 Repositorio inicial de la clase NT2-B Periodo 2020-2
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 # Consigna
@@ -15,5 +16,8 @@ Para iniciar con este proyecto, es necesario que todos tengamos el proyecto en n
 - Daniel Guzman, dguzman-ort
 - Tomas Kouba, gituser-tkouba
 - Ricardo Capelli, rcapelli
+- Tobias Favero, TobiasFavero
 =======
 >>>>>>> b001286... Update Readme.md
+=======
+>>>>>>> b1b694c... upd
